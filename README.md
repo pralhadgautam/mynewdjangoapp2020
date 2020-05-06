@@ -1,0 +1,1 @@
+# mynewdjangoapp2020
